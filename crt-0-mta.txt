@@ -1,1 +1,1 @@
-{"title":"Be With U","charter":"raw.githubusercontent.com/aRandomPerson1013/ftb9-semi-sigma/main/user.txt","icon":"./crt-0-ico_th (1).jpg"}
+{"title":"Be With U","charter":"raw.githubusercontent.com/aRandomPerson1013/ftb9-semi-sigma/main/user.txt","icon":"./crt-0-ico_th (1).jpg","audio":"./crt-0-aud_BOFXVIBe With UBGA.mp3"}
